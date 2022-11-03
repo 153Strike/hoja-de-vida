@@ -1,0 +1,231 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ 
+.with12{
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 17%;
+    border-radius: 50%;
+}
+ 
+div#general{
+    margin: -10% auto auto;
+    width: 90%;
+    height: 100%;
+    background-color: rgba(211, 235, 240, 0);
+}
+div#dos{
+    float: right;
+    margin-top: -13%;
+    margin-right: 37%;
+    background-color: rgba(137, 43, 226, 0);
+    
+}
+div#tres{
+    margin-top: -8%;
+    margin-right: 23%;
+    float: right;
+    background-color: rgba(0, 0, 255, 0);
+}
+div#cuatro{
+    width: 5%;
+    height: 3px;
+    margin-top: 6%;
+    
+  background-color: rgba(165, 42, 42, 0);  
+}
+div#cinco{
+    width: 5%;
+    height: 10%;
+    margin-top: -6%;
+    margin-left: 59%;
+    margin-right: 1%;
+    height: 10%;
+    display: block;
+    background-color: rgba(255, 255, 0, 0);
+}
+
+div#seis{
+    width: 36%;
+    margin-top: -5%;
+    float: right;
+    height: 54px;
+    float: right;
+    background-color: rgba(165, 26, 54, 0);
+}
+div#siete{
+    margin-top: 7%;
+    margin-left: 59%;
+    width: 40%;
+    background-color: rgba(0, 116, 224, 0);
+    
+}
+div#pencil{
+    margin-top: 7%;
+    margin-left: 59%;
+    width: 40%;
+}
+div#study{
+    width: 36%;
+    margin-top: -4%;
+    float: right;
+    height: 54px;
+    float: right; 
+}
+div#ocho{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: -165%;
+    background-color: rgba(128, 255, 0, 0);
+    
+}
+div#nueve{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+div#diez{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+
+div#once{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+div#doce{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+
+div#trece{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+
+div#catorce{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+div#quince{
+    width: 50%;
+    margin-left: 0%;
+    margin-top: 5%;
+    background-color: rgba(128, 255, 0, 0);
+}
+
+div#perfil{
+    width: 39%;
+    float: right;
+    background-color: rgba(137, 43, 226, 0);
+}
+div#tittle{
+    margin: -2%;
+    margin-top: 0%;
+    width: 29%;
+    height: 6%;
+    margin-left: 6%;
+    background-color: rgba(255, 127, 80, 0);
+}
+.triangulo{
+    width: 0px;
+    height: 0px;
+    border-bottom: 181px solid transparent;
+    border-top: -2px solid transparent;
+    border-left: 900px solid rgb(18, 56, 105);  
+}
+.tri{
+    float: right;
+    margin-top: -14%;
+    width: 0px;
+    height: 0px;
+    border-bottom: 181px solid transparent;
+    border-top: 0px solid transparent;
+    border-right: 481px solid rgb(65, 155, 228);  
+} 
+.triangulou{
+    width: 0px;
+    height: 0px;
+    border-top: 181px solid transparent;
+    border-left: 903px solid rgb(0, 84, 139);  
+}
+
+.triu{
+    float: right;
+    margin-top: -18%;
+    width: 0px;
+    height: 0px;
+    border-bottom: 0px solid transparent;
+    border-top: 242px solid transparent;
+    border-right: 451px solid rgb(65, 155, 228); 
+}
+div#educa{
+    margin-top: 7%;
+    margin-left: 59%;
+    width: 40%;
+ }
+
+ div#educauno{
+    margin-top: 7%;
+    margin-left: 59%;
+    width: 40%;
+ }
+ div#educados{
+    margin-top: 7%;
+    margin-left: 59%;
+    width: 40%;
+ }
+
+ div#habil{
+    margin-top: 7%;
+    margin-left: 58%;
+    width: 40%;
+}
+div#habilidad{
+    width: 36%;
+    margin-top: -4%;
+    float: right;
+    height: 54px;
+    float: right; 
+}
+
+div#ref{
+    margin-top: 7%;
+    margin-left: 58%;
+    width: 40%;
+}
+div#refer{
+    width: 36%;
+    margin-top: -4%;
+    float: right;
+    height: 54px;
+    float: right;
+ }
+div#referencia{
+    margin-top: 7%;
+    margin-left: 58%;
+    width: 40%; 
+}
+div#referenciauno{
+    margin-top: 7%;
+    margin-left: 58%;
+    width: 40%; 
+}
+div#referenciados{
+    margin-top: 7%;
+    margin-left: 58%;
+    width: 40%;
+}
